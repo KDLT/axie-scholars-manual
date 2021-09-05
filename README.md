@@ -67,7 +67,7 @@ Day 1-3: **Spend 20 denergy on Adventure** then play as many Arena matches as yo
 Day 4-7: **Spend 10 denergy _each_ on Adventure and Arena.** Do not concern yourself about MMR loss just yet. You're piloting a fairly competitive team so you're bound to climb when you've improved enough. For now your primary goal will be **correctly keeping track of your opponent's energy.** I cannot stress this enough. As far as I'm concerned energy counting is the ticket to entering the 2,000 MMR range. That's the range where you'll start to really cash in especially since your "share upgrade" will kick in when you break the 2k MMR barrier. More on this later.  
 ### Week 2
 ![img of adventure map](https://i.imgur.com/PtZUatI.png)  
-Day 8-10: **Spend 20 denergy on Adventure** and play _at least 10 Arena matches._ If you didn't get your 5 wins in those 10 Arena matches, don't sweat it. Take a break and resume when you're ready. There exists unlucky spells where it feels like you can't draw the cards you need or all the critical strikes in the world's hitting you. There's a fair bit of luck involved but don't let your misfortune get in the way of keeping true to your energy counting fundamentals. On the adventure side of things you're probably farming at Ruin 9 or Ruin 11 at this point. Ruin 12 is a difficult one. However, in line with the goal of making Adventure as simple as possible, you ough to continue working towards reaching Ruin 20. First you've got to break out of Ruin 12, then farm Ruin 14. This is why you're spending 20 denergy on Adventure for around three days.  
+Day 8-10: **Spend 20 denergy on Adventure** and play _at least 10 Arena matches._ If you didn't get your 5 wins in those 10 Arena matches, don't sweat it. Take a break and resume when you're ready. There exists unlucky spells where it feels like you can't draw the cards you need or all the critical strikes in the world's hitting you. There's a fair bit of luck involved but don't let your misfortune get in the way of keeping true to your energy counting fundamentals. On the adventure side of things you're probably farming at Ruin 9 or Ruin 11 at this point. Ruin 12 is a difficult one. However, in line with the goal of making Adventure as simple as possible, you ought to continue working towards reaching Ruin 20. First you've got to break out of Ruin 12, then farm Ruin 14. This is why you're spending 20 denergy on Adventure for around three days.  
 ![rock paper scissors](https://i.imgur.com/ZZywVzc.png)  
 Day 11-14: **Spend 15 denergy on Arena and 5 denergy on Adventure.** At this point, you're getting used to counting your opponent's energy. That is still your primary concern. Your secondary goal now is to memorize your cards' damage numbers on different classes of opposing Axies. You've probably encountered instances where you fell short of knocking out an Axie by just a few hit points or spent way too much energy trying to knock an opposing Axie. Knowing your own damage numbers against different classes is yet another thing that sets players apart.
 
@@ -95,17 +95,17 @@ The following outlines the specifics of the scholar's payout.
 2. **By default** this will be paid out on a **weekly basis.**
    - A week for you starts on the very first day of play. This will also be your **"payday"** moving forward.
    - You will be able to claim your share every seven days since you first began playing.
+   - Claiming can only be done after daily quest completion
    - When you opt for the second option, we will settle on an agreed upon time of day to conduct the fund transfer. This will be the default schedule moving forward.
 3. Your share will be **upgraded to 60%** when you meet the following conditions:  
    a) Average **200 SLP for the week.**  
    b) Reach 2,000 MMR  
-   - If you reached 2,000 MMR before payday, immediately reach out so we can check your rating on the leaderboard.
-   - You've got a 50 MMR breathing room then. Henceforth, your MMR should not be under 1,950 by payday in order to claim the **60% upgrade.**  
+   - If you reached 2,000 MMR before payday, immediately reach out so we can check your rating on the leaderboard. Come payday, your MMR should not be under 1,950 in order to claim the **60% upgrade**
 
 There are two currencies or, more accurately, **Tokens** in Axie Infinity. First is the already discussed **SLP** and the other one's **AXS.** The latter is a more precious and more expensive (approximately 80 USD each as of writing) resource given that the only way to earn AXS is to buy one on an exchange or compete with the best players in the world.  
 ![arena rewards](https://i.imgur.com/h0973fN.png)  
 
-Only the top 1,000 players in the leaderboard gets rewarded AXS. In the event that you're able to secure a spot for an AXS reward, we're taking a 20% share and the rest is yours. This is on top of the new tier of **SLP** profit sharing you've unlocked by breaking 2,000 MMR. There is truly no argument about where the sizeable gains come from, hence, my constant emphasis on improving your Arena gameplay.
+Only the top 1,000 players in the leaderboard get rewarded AXS. In the event that you're able to secure a spot for an AXS reward, we're taking a 20% share and the rest is yours. This is on top of the new tier of **SLP** profit sharing you've unlocked by breaking 2,000 MMR. There is truly no argument about where the sizeable gains come from, hence, my constant emphasis on improving your Arena gameplay.
 
 ## Principles
 We'd like to bookend this document by saying that this kind of progression over four weeks of playing the game _consistently_ is very doable. Please scroll back up to check the MMR at which all of this data gathering started. The blueprint laid out above didn't come out of thin air. This document in its entirety is a result of about a month of data gathering and research. The image below shows our rather modest metrics just five days into September 2021.  
