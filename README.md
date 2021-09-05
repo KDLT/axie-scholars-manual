@@ -1,6 +1,6 @@
 ## Game mechanics
 
-With 3 Axies in your account you get a total of **20 daily energy.** The ultimate goal of when consuming these is to gain **Smooth Love Potion. (SLP)** This is the secondary currency in the entire Axie Infinity ecosystem and is ultimately the resource you'll be farming when playing the game.  
+With 3 Axies in your account you get a total of **20 daily energy.** The ultimate goal when consuming these is to gain **Smooth Love Potion. (SLP)** This is the secondary currency in the entire Axie Infinity ecosystem and is ultimately the resource you'll be farming when playing the game.  
 ![img of energy cap per n\_axies](https://i.imgur.com/a0M1Ib0.png)  
 There are **2 types** of energy here which causes a lot of confusion for beginners, let's name them for posterity:  
    - First one's the daily energy cap mentioned above. let's call this **denergy.** This number can be seen at the top left of the main menu. It is denoted by a lightning icon.
@@ -13,10 +13,9 @@ Suffice to say, the very basic goal of every player is to _complete all three in
 
 ### **Adventure**
 
-Every single day you've have a chance to earn a _maximum_ of **50 SLP** in Adventure Mode as shown in the fraction on the center left of the screen. You can still play Adventure levels even after you've won all 50 available SLP. This still a viable move if you've still got _denergy_ left since wins past the 50 daily cap will still rewards experience points to your Axies. Playing Adventure _without denergy rewards nothing._ Conversely, clearing more difficult the ruins, rewards a lot more SLP.  
+Every single day you'll have a chance to earn a _maximum_ of **50 SLP** in Adventure Mode as shown in the fraction on the center left of the screen. You can still play Adventure levels even after winning all 50 available SLP. This is still a viable move if you've still got _denergy_ left since wins past the 50 daily cap will still reward experience points to your Axies. Playing Adventure _without denergy rewards nothing._ Conversely, clearing more difficult ruins, rewards a lot more SLP.  
 ![ruin map](https://i.imgur.com/PtZUatI.png)  
-Beating a Ruin rewards equal amounts of experience points (exp) for _all_ the Axies used. It doesn't matter if an Axie gets knocked out before the Ruin is cleared. It will still gain exp, again, as long as you cleared the ruin with **denergy** remaining. You're defeated when _all_ your Axies are knocked out. A defeat here will _**not**_ subtract **denergy** so you're free to attempt a difficult ruin multiple times. However there's a more efficient way to proceed. More on this later. The table below outlines what happens different outcomes when you play Adventure.  
-![arena denergy table](https://i.imgur.com/OE5QK6M.png)  
+Beating a Ruin rewards equal amounts of experience points (exp) for _all_ the Axies used. It doesn't matter if an Axie gets knocked out before the Ruin is cleared. It will still gain exp, again, as long as you cleared the ruin with **denergy** remaining. You're defeated when _all_ your Axies are knocked out. A defeat here will _**not**_ subtract **denergy** so you're free to attempt a difficult ruin multiple times. However there's a more efficient way to proceed. More on this later. The table below outlines the different outcomes when you play Adventure.  
 | denergy left? | Result | Consumed | 50 Cap Reached? | Reward   |
 |---------------|--------|----------|-----------------|----------|
 | Yes           | Win    | denergy  | No              | Exp, SLP |
@@ -39,10 +38,9 @@ This is where the bulk of your **SLP** will _eventually_ come from. Eventually b
 ![matchmaking rank](https://i.imgur.com/G8EGI5F.png)  
 Every player starts at **1200 MMR** on a new account. At the time of writing, every win at this MMR rewards **6 SLP.** The higher your MMR the higher the SLP you'd gain per win. So far, there exists no official document regarding the SLP reward progression in the Arena. The following is the "bracket" or "tier" system aggregated by players referencing their own MMR progression.  
 ![arena round 1](https://i.imgur.com/JqTACLp.png)  
-All Arena games is a 1v1 between two human players. Both players start with **3 energy** and **6 cards.** These cards are distributed across your team of three Axies. On succeeding rounds, both players are guaranteed to **draw 3 three cards** across the _remaining Axies_ on the battle field. This means you _cannot draw cards for your Axies that are already knocked out._ Conversely, all _unplayed cards_ from the knocked Axies will be discarded so you've got to consider when to play or when not to play cards from Axies at risk of getting knocked.  
+All Arena games are 1v1 between two human players. Both players start with **3 energy** and **6 cards.** These cards are distributed across your team of three Axies. In succeeding rounds, both players are guaranteed to **draw 3 three cards** across the _remaining Axies_ on the battle field. This means you _cannot draw cards for your Axies that are already knocked out._ Conversely, all _unplayed cards_ from the knocked Axies will be discarded so you've got to consider when to play or when not to play cards from Axies at risk of getting knocked.  
 ![img of knocked Axie](https://i.imgur.com/S9bmRya.png)  
 The game boils down to a **turn-based card game** and the order of Axies are predetermined before the cards are played out. Notice the bar at the top of the screen. There are pictures of the Axies still in play with large white numbers beside them. The order is determined by the **speed** attribute of all the Axies in the battlefield. In case of a speed tie, the Axie that has **fewer hit points (hp) goes first.** Finally if hit points are still tied, the Axie with a **lower ID number goes first.** Summarily, it's (1) Speed, (2) HP, (3) ID.  
-![mmr bracket system](https://i.imgur.com/JgwH4gr.png)  
 | MMR | 799 | 800 | 1000 | 1200 | 1300 | 1500 | 1800 | 2000 | 2300 |
 |-----|-----|-----|------|------|------|------|------|------|------|
 | SLP | 0   | 1   | 3    | 6    | 9    | 12   | 15   | 18   | 21   |
@@ -61,7 +59,7 @@ We won't require you to monitor your progress in such high resolution (But if yo
 This is a [link](https://docs.google.com/spreadsheets/d/12fGxOUyM1URLDxPLIVFhDiCJExj1A9XsmEID8DjGqQQ/edit?usp=sharing) to a shared google sheet where you'll fill those out.
 
 ### Week 1
-Day 1-3: **Spend 20 denergy on Adventure** then play as many Arena matches as you can until you complete the **five Arena wins.** If possible play Arena _beyond the daily quests' 5-win requirement._ Your primary goal in these Arena matches is to form a deep understand on game fundamentals:
+Day 1-3: **Spend 20 denergy on Adventure** then play as many Arena matches as you can until you complete the **five Arena wins.** If possible play Arena _beyond the daily quests' 5-win requirement._ Your primary goal in these Arena matches is to form a deep understanding of game fundamentals:
 - The arrangement of Axies on the battlefield
 - The order of cards you're playing on each of your Axies
 - Your own cards' damage numbers on opposing Axies
@@ -78,7 +76,7 @@ Day 15-30: **Day 15 is both payout day and performance review day.** By this tim
 
 If we both agree to continue this scholarship then, henceforth, denergy expenditure will be **Scholar's discretion.** Suffice to say, at the bare minimum you'd still have to complete every single daily quest for rest of your play. If anything, just let two objectives guide your play moving forward:
 1. **Adventure efficiency** where you spend the least amount of time earning the most amount of SLP.
-2. **Arena Improvement** where you spend the most amount of time to _be a better_ earning as much SLP as you can.
+2. **Arena Improvement** where you spend the most amount of time to _be better_ earning as much SLP as you can.
 
 ## Gains and Payout
 
